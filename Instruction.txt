@@ -1,0 +1,21 @@
+Project Idea:
+
+I was thinking about the food lovers and restaurant owners. As we can see, sometimes
+food lovers can’t always know instantly about the available offers provided by the restaurants and what
+kind of foods they can get there. And sometimes, restaurants owners have to go through some problems
+as they have to spend a huge amount of money for promoting issues like leaflets and advertising. So, here
+I got the idea to do something which may help them instantly in these type of situations such as when
+they need to find available restaurants offers and know about the foods and reviews and on the other
+hand, it would similarly help the restaurants owners on their business purposes like advertising and
+promoting new businesses.
+
+Features:
+1. Login System.
+2. Users can rate, review and upload pictures of the restaurant and dishes they have tested.
+3. Restaurant owners can post new updates and Offers.
+4. User can see how much restaurant are there besides his area.
+5. And I will try to add more features if possible.
+
+Platform: Web
+Project Title: Foodies
+Tools: HTML, PHP, JavaScript, MySql, framework (Codeigniter), etc.
